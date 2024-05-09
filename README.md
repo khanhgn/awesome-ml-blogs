@@ -2,3 +2,4 @@
 
 
 https://astralord.github.io/
+https://timdettmers.com/about/
