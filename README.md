@@ -6,3 +6,5 @@ https://astralord.github.io/
 https://timdettmers.com/about/
 <br>
 https://wandb.ai/morgan/hf-dreambooth/reports/Training-Journal-DreamBooth-Torta-Fine-tuning--VmlldzozMjA4MzE4
+<br>
+https://unqualified-reservations.org/
