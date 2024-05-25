@@ -8,3 +8,5 @@ https://timdettmers.com/about/
 https://wandb.ai/morgan/hf-dreambooth/reports/Training-Journal-DreamBooth-Torta-Fine-tuning--VmlldzozMjA4MzE4
 <br>
 https://unqualified-reservations.org/
+<br>
+https://adammaj.com/writing
